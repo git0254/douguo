@@ -1,0 +1,127 @@
+.icon-shoucangjia:before {
+    content: "\e67c";
+    color: orange;
+}
+html, body, menu, ul,  li, p, div{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+#zhengti{
+    width: 100%;
+}
+/*-----------------------------------tab--------------------------------*/
+.tab{
+    width: 500px;
+    margin: 20px;
+}
+.tt{
+    display: flex;
+    /*border-bottom: 1px solid #c00;*/
+}
+.tt>span{
+    width: 120px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    font-size: 14px;
+}
+.tt>.cur{
+    background-color: #fff;
+    margin-bottom: -1px;
+    /*color: #c00;*/
+}
+.tc{
+    height: 250px;
+    border-top: none;
+    font-size: 100px;
+    line-height: 200px;
+    text-align: center;
+    display: none;
+}
+.show{
+    display: block;
+/*    据鼠标显示*/
+}
+.xx{
+    font-weight: bolder;
+}
+.xx:hover{
+    font-size: 20px;
+    text-decoration: underline orange;
+}
+/*------------------------------分组---------------------------*/
+.empty{
+    height: 250px;
+    width: 200px;
+    margin-left: 45px;
+    background-color: #f2eada;
+}
+.empty>img{
+    height: 50px;
+    width: 50px;
+}
+.empty>p{
+    font-size: 15px;
+    width: 100px;
+    height: 15px;
+    line-height: 10px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: grey;
+}
+/*-------------------------------------caipu--------------------------*/
+.caipu{
+    /*display: flex;*/
+}
+.dg-title{
+    font-size: 20px;
+    line-height: 23px;
+    color: #333;
+    font-weight: bold;
+    display: flex;
+
+}
+ul li{
+    list-style: none;
+    display: block;
+    border-bottom: 1px solid #f3f3f3;
+    overflow: hidden;
+    font-size: 20px;
+}
+li{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.picture{
+    float: left;
+    position: relative;
+    width: 140px;
+    height: 100px;
+    overflow: hidden;
+}
+.write{
+    width: 220px;
+    float: left;
+    margin-left: 10px;
+}
+.write1{
+    margin-bottom: 10px;
+    height: 15px;
+    line-height: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.write2{
+    font-size: 13px;
+    height: 15px;
+    line-height: 15px;
+    text-align: left;
+}
+.pic{
+    width: 140px;
+    display: block;
+    border-radius: 10px;
+    box-shadow:   rgba(243, 20, 20, 0.2) 0 2px 5px 0px;
+}

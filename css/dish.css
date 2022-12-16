@@ -1,0 +1,105 @@
+#all{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+/*----------------------------------video-up--------------------------------------------*/
+.video-up{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+}
+.video-up img {
+    width: 3em;
+    height: 3em;
+}
+.video-up-right{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+/*--------------------------------------video----------------------------------------*/
+.video{
+    margin-top: 5px;
+    text-align: center;
+    background-color: black;
+    height: 670px;
+}
+.video video{
+    border-radius: 10px;
+    width: 60%;
+    height: 100%;
+}
+.video button{
+}
+/*-----------------------------------video-down-------------------------------------------*/
+.video-down{
+    font-size: 1.5rem;
+}
+.video-down p{
+    font-size: .5rem;
+    padding-left: 17px;
+}
+/*------------------------------------zuozhe-img------------------------------------------*/
+.zuozhe-img{
+    text-align: center;
+}
+.zuozhe-img img{
+    height:4em;
+    width:90%;
+}
+/*-------------------------------------zuozhe-jj-----------------------------------------*/
+.zuozhe-jj{
+    padding-left: 15px;
+}
+.zuozhe-jj p{
+    font-size: 1.1rem;
+}
+.zuozhe-jj h5{
+    color: #0086b3;
+    font-size: 1.1rem;
+}
+/*-------------------------------------shicai-----------------------------------------*/
+.shicai{
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2rem;
+    justify-content: space-around;
+}
+h4{
+    font-size: 1.4rem;
+}
+.shicai-son{
+    display: flex;
+    justify-content: space-between;
+}
+.type{
+    color: #0086b3;
+}
+/*-------------------------------------yyfx-----------------------------------------*/
+.yyfx{
+    margin-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.4rem;
+}
+.yyfx img{
+    width: 100%;
+    height: 80%;
+}
+/*-------------------------------------buzhou-----------------------------------------*/
+.buzhou{
+    display: flex;
+    flex-direction: column;
+}
+.bz-son{
+    flex-direction: column;
+}
+.buzhou img{
+    width: 100%;
+    height: 40em;
+}
+.buzhou p{
+    font-size: 1.2rem;
+}

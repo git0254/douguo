@@ -1,0 +1,130 @@
+{
+  "tab1":[
+    {
+      "pic1":"1",
+      "img":"img/angkeqi.jpg",
+      "link":"#",
+      "text":"昂科旗2020 28T 四驱Avenir艾维亚",
+      "red":"￥248800",
+      "price":"￥268800"
+    },
+    {
+      "pic1":"2",
+      "img":"img/beichiE.jpg",
+      "link":"#",
+      "text":"奔驰E级 2021 E 260 L",
+      "red":"￥366600",
+      "price":"￥381600"
+    },
+    {
+      "pic1":"3",
+      "img":"img/kaiyue2018.jpg",
+      "link":"#",
+      "text":"凯越 2018 15N CVT精英型",
+      "red":"￥45500",
+      "price":"￥61500"
+    },
+    {
+      "pic1":"4",
+      "img":"img/aodi Q5.jpg",
+      "link":"#",
+      "text":"奥迪Q5L 2020 45 TFSI 尊享风雅型",
+      "red":"￥344800",
+      "price":"￥365800"
+    },
+    {
+      "pic1":"5",
+      "img":"img/leikesasi2020.jpg",
+      "link":"#",
+      "text":"雷克萨斯ES 2020 300h 卓越版 国V",
+      "red":"￥300790",
+      "price":"￥311490"
+    }
+  ],
+
+  "tab2":[
+    {
+      "pic1":"1",
+      "img":"img/leikesasiNX.jpg",
+      "link":"#",
+      "text":"雷克萨斯NX 2017 200 全驱 锋尚版",
+      "red":"￥217700",
+      "price":"￥231400"
+    },
+    {
+      "pic1":"2",
+      "img":"img/a4L.jpg",
+      "link":"#",
+      "text":"奥迪A4L 2020 40 TFSI 豪华动感型",
+      "red":"￥249600",
+      "price":"￥261600"
+    },
+    {
+      "pic1":"3",
+      "img":"img/langyi2017.jpg",
+      "link":"#",
+      "text":"朗逸 2017 1.6L 自动风尚版",
+      "red":"￥58500",
+      "price":"￥71500"
+    },
+    {
+      "pic1":"4",
+      "img":"img/tuangSUV.jpg",
+      "link":"#",
+      "text":"途昂 2022 380TSI 四驱尊崇旗舰版",
+      "red":"￥339800",
+      "price":"￥355800"
+    },
+    {
+      "pic1":"5",
+      "img":"img/GL8.jpg",
+      "link":"#",
+      "text":"别克GL8 2022 陆上公务舱 652T 智慧尊贵型",
+      "red":"￥266800",
+      "price":"￥271400"
+    }
+  ],
+
+  "tab3":[
+    {
+      "pic1":"1",
+      "img":"img/baomaX7.jpg",
+      "link":"#",
+      "text":"宝马X7 2019 xDrive40i 尊享型M运动套装",
+      "red":"￥956800",
+      "price":"￥971400"
+    },
+    {
+      "pic1":"2",
+      "img":"img/aodiQ8.jpg",
+      "link":"#",
+      "text":"奥迪Q8 2019 55 TFSI 臻选动感型",
+      "red":"￥739000",
+      "price":"￥751900"
+    },
+    {
+      "pic1":"3",
+      "img":"img/aierfa.jpg",
+      "link":"#",
+      "text":"埃尔法 2018 改款 3.5L 豪华版",
+      "red":"￥968000",
+      "price":"￥1001500"
+    },
+    {
+      "pic1":"4",
+      "img":"img/kaileidelong.jpg",
+      "link":"#",
+      "text":"凯雷德ESCALADE 2017 6.2L ESV 铂金版加长型",
+      "red":"￥688800",
+      "price":"￥701800"
+    },
+    {
+      "pic1":"5",
+      "img":"img/lanshengsport.jpg",
+      "link":"#",
+      "text":"揽胜运动版 2017 3.0 SC V6 HSEDYNAMIC",
+      "red":"￥1003700",
+      "price":"￥1021400"
+    }
+  ]
+}

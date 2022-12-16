@@ -1,0 +1,125 @@
+.icon-wode:before {
+    content: "\e638";
+    color: orange;
+}
+body,ul,p{
+    padding: 0;
+    margin: 0;
+}
+ul li {
+    list-style: none;
+}
+/*----------------------------------all---------------------------*/
+#all{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 1500px;
+}
+/*----------------------------------head---------------------*/
+.head img {
+    height: 39px;
+    width: 39px;
+    margin: 15px;
+}
+.head{
+    color: red;
+    display: flex;
+    justify-content:space-between;
+    padding-left: 15px;
+}
+/*-------------------------------头像----------------------------*/
+.touxiang{
+    padding-left: 50px;
+    display: flex;
+    width: 80%;
+}
+.tx{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.tx-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/*-----------------------------简介--------------------------------*/
+.jianjie{
+    padding-left: 50px;
+}
+.jianjie p{
+    font-size: 1rem;
+}
+.jianjie p:nth-child(1){
+    font-weight: bolder;
+}
+/*-------------------------------关注------------------------------*/
+.gz{
+    width: 80%;
+}
+.gz-main{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.gz h3{
+    font-size: 1.2rem;
+}
+.gz li{
+    padding-left: 50px;
+}
+.gz p{
+    font-size: 0.9rem;
+}
+/*---------------------------------黑色图片----------------------------*/
+.black{
+    padding-left: 50px;
+    margin-top: 20px;
+}
+.black img{
+    width: 90%;
+}
+/*--------------------------------创作者中心------------------------------*/
+.czz{
+    width: 100%;
+}
+.czz-main-up{
+    display: flex;
+    text-align: center;
+}
+.czz-main-up img{
+    width: 35%;
+}
+.czz-main-down{
+    display: flex;
+    text-align: center;
+    margin-top: 15px;
+}
+.czz-main-down img{
+    width: 35%;
+}
+/*----------------------------菜谱----------笔记--------------------------*/
+.last{
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.list li p{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+/*--------------------------------------日历-------------------------------*/
+.rili{
+    text-align: center;
+}
+.rili img{
+    width: 100%;
+    height: 100%;
+}
+#ad{
+    height:10em;
+    width: 100%;
+    background-image: url(file:///D:/%E6%A1%8C%E9%9D%A2%E7%A7%BB%E5%88%B0D%E7%9B%98/Big_homework/image/hengfu.jpg);
+    background-size: 100%;
+}

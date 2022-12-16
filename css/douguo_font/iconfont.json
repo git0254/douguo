@@ -1,0 +1,44 @@
+{
+  "id": "3774896",
+  "name": "豆果美食",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "947481",
+      "name": "商城",
+      "font_class": "shangcheng",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "10064725",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "10582820",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "10715449",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "2675009",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}
